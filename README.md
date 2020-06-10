@@ -2,6 +2,11 @@
 
 An application to help find a parking spot on the street with the help of other drivers just like you. 
 
+## MVP:
+- User will be able to signup / signin
+- User will be able to view any pin
+- User will be able to remove/ add if current location matches the pin location.
+
 ## Design:
 
 ### Wireframe:
